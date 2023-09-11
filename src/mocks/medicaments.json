@@ -1,0 +1,36 @@
+{
+    "medicamentos": [
+        {
+            "codigo":"1234",
+            "name":"Acetaminofen",
+            "form": "Capsula",
+            "fechaC": "11/09/2034",
+            "via": "Oral",
+            "dosis": "250mg"
+        },
+        {
+            "codigo":"4321",
+            "name":"Solucion Salina",
+            "form": "Liquido",
+            "fechaC": "11/09/2024",
+            "via": "Externo",
+            "dosis": "500ml"
+        },
+        {
+            "codigo":"7234",
+            "name":"Naproxceno",
+            "form": "Capsula",
+            "fechaC": "11/09/2034",
+            "via": "Oral",
+            "dosis": "250mg"
+        },
+        {
+            "codigo":"8321",
+            "name":"Meropenem",
+            "form": "Liquido",
+            "fechaC": "11/09/2024",
+            "via": "Externo",
+            "dosis": "200ml"
+        }
+    ]
+}
